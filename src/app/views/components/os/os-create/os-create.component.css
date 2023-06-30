@@ -1,0 +1,37 @@
+    .container {
+        width: 70%;
+        height: 10rem;
+        margin: auto;
+        padding: auto;
+    }
+    
+    h1 {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    
+    .labels {
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .full-width {
+        width: 100%;
+    }
+    
+    textarea {
+        min-height: 4rem;
+        max-height: 15rem;
+    }
+    
+    .button-create {
+        margin-top: 1rem;
+        width: 50%;
+        left: .1rem;
+    }
+    
+    .button-cancel {
+        margin-top: 1rem;
+        width: 50%;
+        right: .1rem;
+    }

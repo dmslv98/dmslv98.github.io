@@ -1,0 +1,59 @@
+
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   $
+#	modified:   angular.json
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/app/app-routing.module.ts
+#	new file:   src/app/app.component.html
+#	modified:   src/app/app.component.ts
+#	modified:   src/app/app.module.ts
+#	new file:   src/app/models/cliente.ts
+#	new file:   src/app/models/tecnico.ts
+#	new file:   src/app/services/cliente.service.ts
+#	new file:   src/app/services/tecnico.service.ts
+#	new file:   src/app/views/components/cliente/cliente-create/cliente-create.component.css
+#	new file:   src/app/views/components/cliente/cliente-create/cliente-create.component.html
+#	new file:   src/app/views/components/cliente/cliente-create/cliente-create.component.ts
+#	new file:   src/app/views/components/cliente/cliente-delete/cliente-delete.component.css
+#	new file:   src/app/views/components/cliente/cliente-delete/cliente-delete.component.html
+#	new file:   src/app/views/components/cliente/cliente-delete/cliente-delete.component.ts
+#	new file:   src/app/views/components/cliente/cliente-read/cliente-read.component.css
+#	new file:   src/app/views/components/cliente/cliente-read/cliente-read.component.html
+#	new file:   src/app/views/components/cliente/cliente-read/cliente-read.component.ts
+#	new file:   src/app/views/components/cliente/cliente-update/cliente-update.component.css
+#	new file:   src/app/views/components/cliente/cliente-update/cliente-update.component.html
+#	new file:   src/app/views/components/cliente/cliente-update/cliente-update.component.ts
+#	new file:   src/app/views/components/tecnico/tecnico-create/tecnico-create.component.css
+#	new file:   src/app/views/components/tecnico/tecnico-create/tecnico-create.component.html
+#	new file:   src/app/views/components/tecnico/tecnico-create/tecnico-create.component.ts
+#	new file:   src/app/views/components/tecnico/tecnico-delete/tecnico-delete.component.css
+#	new file:   src/app/views/components/tecnico/tecnico-delete/tecnico-delete.component.html
+#	new file:   src/app/views/components/tecnico/tecnico-delete/tecnico-delete.component.ts
+#	new file:   src/app/views/components/tecnico/tecnico-read/tecnico-read.component.css
+#	new file:   src/app/views/components/tecnico/tecnico-read/tecnico-read.component.html
+#	new file:   src/app/views/components/tecnico/tecnico-read/tecnico-read.component.ts
+#	new file:   src/app/views/components/tecnico/tecnico-update/tecnico-update.component.css
+#	new file:   src/app/views/components/tecnico/tecnico-update/tecnico-update.component.html
+#	new file:   src/app/views/components/tecnico/tecnico-update/tecnico-update.component.ts
+#	new file:   src/app/views/components/template/footer/footer.component.css
+#	new file:   src/app/views/components/template/footer/footer.component.html
+#	new file:   src/app/views/components/template/footer/footer.component.ts
+#	new file:   src/app/views/components/template/header/header.component.css
+#	new file:   src/app/views/components/template/header/header.component.html
+#	new file:   src/app/views/components/template/header/header.component.ts
+#	new file:   src/app/views/components/template/home/home.component.css
+#	new file:   src/app/views/components/template/home/home.component.html
+#	new file:   src/app/views/components/template/home/home.component.ts
+#	new file:   src/app/views/components/template/nav/nav.component.css
+#	new file:   src/app/views/components/template/nav/nav.component.html
+#	new file:   src/app/views/components/template/nav/nav.component.ts
+#	new file:   src/assets/img/work.png
+#	new file:   src/environments/environment.development.ts
+#	new file:   src/environments/environment.ts
+#	modified:   src/index.html
+#	modified:   src/styles.css
+#

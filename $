@@ -1,0 +1,4 @@
+CREATE src/app/views/components/template/home/home.component.html (19 bytes)
+CREATE src/app/views/components/template/home/home.component.ts (194 bytes)
+CREATE src/app/views/components/template/home/home.component.css (0 bytes)
+UPDATE src/app/app.module.ts (1871 bytes)
